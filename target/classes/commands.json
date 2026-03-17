@@ -1,0 +1,14 @@
+{
+  "OPEN_BROWSER": [
+    "cmd", "/c", "start", "msedge"
+  ],
+  "OPEN_CALCULATOR": [
+    "calc.exe"
+  ],
+  "SHUTDOWN_SYSTEM": [
+    "shutdown", "-s", "-t", "0"
+  ],
+  "OPEN_NOTEPAD": [
+    "notepad.exe"
+  ]
+}
